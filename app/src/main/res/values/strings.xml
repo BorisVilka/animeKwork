@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">Аниме</string>
+
+    <!--bottom navigation title-->
+    <string name="title_nav_home">Главная</string>
+    <string name="title_nav_category">Категории</string>
+    <string name="title_nav_favorite">Избранное</string>
+    <string name="title_nav_settings">Настройки</string>
+
+    <!--favorite-->
+    <string name="favorite_add">Добавить в Избранное</string>
+    <string name="favorite_remove">Удалить из Избранных</string>
+    <string name="msg_favorite_added">Добавлено в Изббранное</string>
+    <string name="msg_favorite_removed">Удалено из Избранных</string>
+    <string name="no_favorite_found">В Избранных пусто. Добавьте сюда видео</string>
+
+    <!--sort-->
+    <string name="title_sort">Сортировка по</string>
+    <string name="most_popular">Популярности</string>
+    <string name="oldest">По Дате (старые)</string>
+    <string name="newest">По Дате (новые)</string>
+
+    <!--network & error message-->
+    <string name="whops">Ооопс!</string>
+    <string name="network_required">Требуется подключение интернет!</string>
+    <string name="failed_title_text">Ооопс!</string>
+    <string name="failed_text">Что-то не так с вашей сетью или сервер не работает, повторите попытку позже.</string>
+    <string name="failed_stream">Не удалось загрузить поток, возможно, сервер потокового вещания в данный момент не работает!</string>
+    <string name="no_internet_text">Что-то не так с вашей сетью или сервер не работает, попробуйте позже.</string>
+    <string name="no_category_found">в настоящее время нет доступных категорий</string>
+    <string name="no_post_found">Видео не найдено! если вы хотите продолжить поиск, попробуйте ввести другое ключевое слово!</string>
+    <string name="msg_no_item">в настоящее время нет доступного контента.</string>
+    <string name="msg_search_input">Пожалуйста, введите ключевое слово</string>
+    <string name="error_player">Произошла ошибка при инициализации YouTube плеера (%1$s)</string>
+    <string name="msg_cancel_update">Обновление отменено</string>
+    <string name="msg_success_update">Обновлено!</string>
+    <string name="msg_failed_update">Ошибка Обновления!</string>
+
+    <!--settings-->
+    <string name="title_settings">Настройки</string>
+    <string name="title_settings_theme">Тёмная Тема</string>
+    <string name="sub_title_settings_theme">Экономит аккумулятор и улучшает зрение</string>
+    <string name="title_settings_videos">Вид Видео</string>
+    <string name="single_choice_default">По-умолчанию</string>
+    <string name="single_choice_compact">Компактный</string>
+    <string name="title_settings_category">Вид Категорий</string>
+    <string name="single_choice_list">Список</string>
+    <string name="single_choice_grid_2">Сетка (2 столб.</string>
+    <string name="single_choice_grid_3">Сетка (3 столб.)</string>
+    <string name="title_settings_notification">Пуш Уведомления</string>
+    <string name="sub_title_settings_notification">Управление настройками уведомлений</string>
+    <string name="title_settings_privacy">Политика Конфиденциальности</string>
+    <string name="title_settings_share">Поделиться</string>
+    <string name="title_settings_rate">Оцените Нас</string>
+    <string name="title_settings_more_apps">Другие Приложения</string>
+    <string name="title_settings_about">О Приложении</string>
+    <string name="title_settings_version">Версия</string>
+    <string name="sub_title_settings_about">Copyright &#169; 2021 Limma \n All rights reserved</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_no">НЕТ</string>
+    <string name="dialog_retry">ПОВТОР</string>
+
+    <!--others-->
+    <string name="share">Поделиться</string>
+    <string name="share_text">Я хочу поделиться с лучшим приложением для просмотра Фильмов</string>
+    <string name="video_count_text">Видео</string>
+    <string name="views_count">просмотр</string>
+    <string name="btn_retry">Повтор</string>
+    <string name="search">Поиск</string>
+    <string name="search_text">Поиск&#8230;</string>
+    <string name="txt_suggested">Похожие</string>
+    <string name="press_again_to_exit">Нажмите еще раз, чтобы выйти из приложения</string>
+
+</resources>

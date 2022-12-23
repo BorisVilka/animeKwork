@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="BaseTheme">
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="AppDarkTheme" parent="BaseDarkTheme">
+        <item name="colorPrimaryDark">@color/colorStatusBarDark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+</resources>

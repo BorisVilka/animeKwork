@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7444105220",
+    "project_id": "anime-9a60e",
+    "storage_bucket": "anime-9a60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7444105220:android:ef14dd28d96648f0cacd51",
+        "android_client_info": {
+          "package_name": "com.anime.limma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7444105220-a44h1t2rvedihugso4i7vaob7r5ks504.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIL4cLNFit1Mu56rTsPGhUXUdlanXKOwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7444105220-a44h1t2rvedihugso4i7vaob7r5ks504.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
